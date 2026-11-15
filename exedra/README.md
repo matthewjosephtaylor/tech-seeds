@@ -2,7 +2,7 @@
 
 **Grow a place worth visiting because interesting things happened while you were away.**
 
-v0.2 · 2026-11-15 · by [@matthewjosephtaylor](https://github.com/matthewjosephtaylor) · [MIT](../LICENSE)
+v0.2 · 2026-11-15 · by [Matt Taylor](https://github.com/matthewjosephtaylor) · [MIT](../LICENSE)
 
 [Build specification](BUILD.md) · [Characters and rooms](CAST.md)
 

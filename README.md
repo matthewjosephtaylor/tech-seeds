@@ -1,6 +1,6 @@
 # Tech Seeds
 
-Created by [@matthewjosephtaylor](https://github.com/matthewjosephtaylor). Credit—and blame—welcome.
+Created by [Matt Taylor](https://github.com/matthewjosephtaylor). Credit—and blame—welcome.
 
 Human-readable blueprints that a capable AI can turn into personal software. Transfer the product's useful decisions—not a dependency on its original author, source tree or hosted service.
 
